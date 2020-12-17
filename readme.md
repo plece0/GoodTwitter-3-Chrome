@@ -18,6 +18,7 @@ Turns out Twitter didn't actually delete the 2014 layout like they said they did
 
 - Log out of twitter. (Sorry, it doesn't work while logged in)
 - [Download it!](https://github.com/plece0/GoodTwitter-3-Chrome/releases)
+- Create a new folder and place the zip contents into it
 - Go to chrome://extensions
 - Turn on developer mode
 - Load unpacked...
