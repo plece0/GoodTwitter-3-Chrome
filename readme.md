@@ -1,7 +1,7 @@
 <div align="center">
-  <h1>GoodTwitter 3</h1>
+  <h1>GoodTwitter 3: Chrome Edition</h1>
 
-  Make Twitter look good again. (on chrome)
+  Make Twitter look good again.
 
 </div>
 
